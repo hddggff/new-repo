@@ -1,3 +1,3 @@
 # new-repo
-this is my first repo
-athor - jaydip maru
+this is my first repo.
+<br> athor - jaydip maru
